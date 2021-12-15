@@ -1,4 +1,4 @@
-package com.company.logic.subjects;
+package com.company.main.subjects;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;

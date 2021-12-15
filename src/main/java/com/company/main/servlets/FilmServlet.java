@@ -1,8 +1,8 @@
-package com.company.logic.servlets;
+package com.company.main.servlets;
 
-import com.company.logic.subjects.Film;
-import com.company.logic.subjects.Genre;
-import com.company.logic.subjects.MovieStoreDAO;
+import com.company.main.subjects.Film;
+import com.company.main.subjects.Genre;
+import com.company.main.subjects.MovieStoreDAO;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;

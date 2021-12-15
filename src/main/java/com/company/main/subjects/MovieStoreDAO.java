@@ -1,4 +1,4 @@
-package com.company.logic.subjects;
+package com.company.main.subjects;
 
 import java.sql.*;
 import java.util.ArrayList;
